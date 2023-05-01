@@ -1,11 +1,11 @@
 # Credit-Card-Fraud-Detection-System
 MACHINE LEARNING | PYTHON | DATA SCIENCE
 <br>
-<li> Developed a credit card fraud detection system using machine learning algorithms to identify and prevent fraudulent transactions in real-time.
+• Developed a credit card fraud detection system using machine learning algorithms to identify and prevent fraudulent transactions in real-time.
 <br>
-<li> Utilized various statistical techniques and data visualization tools to analyze large datasets and identify patterns and anomalies in transactions.
+• Utilized various statistical techniques and data visualization tools to analyze large datasets and identify patterns and anomalies in transactions.
 <br>
-<li> Collaborated with cross-functional teams to improve the system's performance and accuracy and ensure compliance with industry regulations.
+• Collaborated with cross-functional teams to improve the system's performance and accuracy and ensure compliance with industry regulations.
 <br>
 Algorithams are used:- 
 1. Logistic Regression
